@@ -1,0 +1,25 @@
+{
+  "name": "logbot",
+  "version": "1.0.0",
+  "description": "Advanced Logger Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Rhaegar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "five.db": "^0.0.8",
+    "fs": "^0.0.1-security",
+    "mongodb": "^5.5.0",
+    "mongoose": "^7.1.1",
+    "orio.db": "^3.1.2",
+    "quick.db": "^9.1.6",
+    "sqlite": "^4.2.0",
+    "sqlite3": "^5.1.6"
+  }
+}
